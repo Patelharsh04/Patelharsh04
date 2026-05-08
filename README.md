@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Patelharsh04
-- 🌱 I’m currently learning Network Cloud Security
+- 🎓 Master's student in Cybersecurity at SRH University, Berlin
+- ☁️ Specialising in Cloud Security | On a journey from zero to job-ready
 - 📫 How to reach me harshh0409@gmail.com
+- 📍 Berlin, Germany
 
 <!---
 Patelharsh04/Patelharsh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
